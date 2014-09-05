@@ -80,6 +80,11 @@ s.boot;
 ~mspoll = {MouseY.kr(~mnd[~pitchHi], ~mnd[~pitchLo]).round.poll}.play;
 ~mnd.findKeyForValue(66);
 
-
 ~mspoll.free;
 
+/*
+//GANGSTER'S PARADISE, MAIN RIFF
+84 - C6 - 298
+83 - B5 - 310
+79 - G5 - 360
+*/
